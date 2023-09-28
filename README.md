@@ -1,3 +1,5 @@
+<img src="https://media.discordapp.net/attachments/929485367768404109/940322659693121546/Image.gif" width="500" height="250">
+
 # Ro.Py-Discord-Bot
 For skids who dont know how to make a basic discord roblox bot
 
