@@ -17,4 +17,6 @@ pip install roblox
 pip install ro-py
 ```
 
-## After, copy and paste the code in <a href="https://github.com/ykfear/Ro.Py-Discord-Bot/blob/main/main.py">main.py</a> and fill in the token, cookie, prefix, etc.
+## After
+
+After, copy and paste the code in <a href="https://github.com/ykfear/Ro.Py-Discord-Bot/blob/main/main.py">main.py</a> and fill in the token, cookie, prefix, etc.
